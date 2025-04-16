@@ -21,15 +21,13 @@ I am excited to connect with like-minded professionals and explore opportunities
 ## 🛠 **Technical Skills**  
 
 **Programming Languages**  
+- 🖥 **HTML**
+- *️⃣ **CSS**  
 - 💻 **Java**  
 - 🌐 **JavaScript**  
 
-**Web Development**  
-- 🖥 **HTML/CSS**  
-- ⚛ **React.js**
-
 **Frameworks/Libraries**
-- 🔮 **React**
+- 🔮 **ReactJS**
 - 🇧🇼 **TailwindCSS**
 - 🥬 **Spring Boot**
 
@@ -41,13 +39,15 @@ I am excited to connect with like-minded professionals and explore opportunities
 - 🛠 **Git/GitHub**  
 - 🐳 **Docker**  
 - ⚙ **Jenkins**
-- 🦙 **Ollama** 
+- 🦙 **Ollama**
+- 🎬 **Figma**
 
 **Soft Skills**  
 - 🧩 **Problem Solving**  
 - 🤝 **Teamwork**  
 - 🗣 **Communication**  
-- 🗓 **Project Management**  
+- 🗓 **Project Management**
+- 🪜 **Adaptability**
 
 ---
 
@@ -78,7 +78,8 @@ Integrated Apache Kafka to ensure reliable message delivery and asynchronous pro
    
 
 ---
-### 📚 **Training** **Sure Trust | Data Structures & Algorithms Intern (Ongoing)** December’ 24 – Present
+### 📚 **Training**
+**Sure Trust** | Data Structures & Algorithms Intern (Ongoing) | December’ 24 – Present
 - Gaining in-depth knowledge of Data Structures and Algorithms (DSA) through hands-on problem-solving.
 - Engaging in structured learning sessions to improve problem-solving skills and algorithmic thinking.
 - Applying DSA concepts to optimize solutions and enhance coding efficiency.
