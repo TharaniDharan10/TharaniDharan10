@@ -1,3 +1,5 @@
+<img src="https://github.com/TharaniDharan10/TharaniDharan10/blob/main/BACKGROUND.png" width="100%" height="10%" alt="ALTERNATIVE_TEXT" />
+
 ## Hello Folks 👋
 
 # **Tharani Dharan Saravanan**  
