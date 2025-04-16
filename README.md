@@ -2,7 +2,7 @@
 
 # **Tharani Dharan Saravanan**  
 🌟 *Aspiring Full Stack Developer | Tech Enthusiast | CSE Student at LPU*  
-📧 TharaniDharan.S@outlook.com | 📞 +91 93456 08391 | [LinkedIn](https://www.linkedin.com/in/tharanidharan-s)  
+📧 TharaniDharan.S@outlook.com | [LinkedIn](https://www.linkedin.com/in/tharanidharan-s)  
 📍 Jalandhar, Punjab, India  
 
 ---
@@ -76,6 +76,20 @@ Integrated Apache Kafka to ensure reliable message delivery and asynchronous pro
 - **Features**: Developed a dynamic frontend in React for fluid user interactions and Spring Boot backend for business logic. Leveraged MongoDB for storing user profiles, match history, and chat data. Integrated Llama for personalized and context-aware AI responses.
 - **Outcome**: Launched an engaging, AI-driven matchmaking platform with seamless swipe mechanics and real-time chat capabilities. Ensured scalability and fast performance through optimized database access and responsive UI.
    
+
+---
+### 📚 **Training** **Sure Trust | Data Structures & Algorithms Intern (Ongoing)** December’ 24 – Present
+- Gaining in-depth knowledge of Data Structures and Algorithms (DSA) through hands-on problem-solving.
+- Engaging in structured learning sessions to improve problem-solving skills and algorithmic thinking.
+- Applying DSA concepts to optimize solutions and enhance coding efficiency.
+
+---
+
+### 🏅 **Certificates** 
+- NPTEL – Cloud Computing | October’ 24
+- GeekforGeeks – [Java Backend Development](https://media.geeksforgeeks.org/courses/certificates/992b47ab5d286be6ef84e95ffe22f787.pdf) | September’ 2024
+- JPMorgan Chase & Co – [Agile Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/5QiaMtZ4k8ngYKn4D_JPMorgan%20Chase%20%26%20Co._YnBgYoNpEf5iKbis9_1724096434962_completion_certificate.pdf) | August’ 24
+- IBM – [Introduction to Web Development](https://www.coursera.org/account/accomplishments/verify/ANCVJT8ADNVK) | April’ 24
 
 ---
 
