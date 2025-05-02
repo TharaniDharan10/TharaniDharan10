@@ -110,6 +110,21 @@ Integrated Apache Kafka to ensure reliable message delivery and asynchronous pro
 - 🇬🇧 **English** (Fluent)  
 - 🇮🇳 **Hindi** (Fluent)  
 
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=hrithik18k&color=blue&style=flat-square)
+
+
+---
+
+## 🔗 Connect with Me
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tharanidharan-s/)
+
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharunjisnu109@gmail.com)
+
+---
 ---
 
 ## 🏅 **References**  
