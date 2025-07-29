@@ -40,7 +40,7 @@ I am excited to connect with like-minded professionals and explore opportunities
 **Tools & Technologies**  
 - 🛠 **Git/GitHub**  
 - 🐳 **Docker**  
-- ⚙ **Jenkins**
+- ⚙ **Github Actions**
 - 🦙 **Ollama**
 - 🎬 **Figma**
 
@@ -81,7 +81,7 @@ Integrated Apache Kafka to ensure reliable message delivery and asynchronous pro
 
 ---
 ### 📚 **Training**
-**Sure Trust** | Data Structures & Algorithms Intern (Ongoing) | December’ 24 – Present
+**Sure Trust** | Data Structures & Algorithms Intern (Ongoing) | December’ 24 – July' 25
 - Gaining in-depth knowledge of Data Structures and Algorithms (DSA) through hands-on problem-solving.
 - Engaging in structured learning sessions to improve problem-solving skills and algorithmic thinking.
 - Applying DSA concepts to optimize solutions and enhance coding efficiency.
