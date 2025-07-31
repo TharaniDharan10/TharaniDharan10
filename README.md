@@ -37,12 +37,16 @@ I am excited to connect with like-minded professionals and explore opportunities
 - 🗄 **MySQL**  
 - 🍃 **MongoDB**  
 
-**Tools & Technologies**  
-- 🛠 **Git/GitHub**  
+**Tools & Technologies**
+- 🛠 **Git / GitHub**  
 - 🐳 **Docker**  
-- ⚙ **Github Actions**
-- 🦙 **Ollama**
+- ⚙ **GitHub Actions**  
+- ☸️ **Kubernetes**  
+- 🌩️ **AWS (Amazon Web Services)**  
+- 🌍 **Terraform**  
+- 🦙 **Ollama**  
 - 🎬 **Figma**
+
 
 **Soft Skills**  
 - 🧩 **Problem Solving**  
@@ -89,6 +93,7 @@ Integrated Apache Kafka to ensure reliable message delivery and asynchronous pro
 ---
 
 ### 🏅 **Certificates** 
+- AWS - [Solutions Architecture](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_YnBgYoNpEf5iKbis9_1753196575165_completion_certificate.pdf) | July' 25
 - NPTEL – Cloud Computing | October’ 24
 - GeekforGeeks – [Java Backend Development](https://media.geeksforgeeks.org/courses/certificates/992b47ab5d286be6ef84e95ffe22f787.pdf) | September’ 2024
 - JPMorgan Chase & Co – [Agile Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/5QiaMtZ4k8ngYKn4D_JPMorgan%20Chase%20%26%20Co._YnBgYoNpEf5iKbis9_1724096434962_completion_certificate.pdf) | August’ 24
