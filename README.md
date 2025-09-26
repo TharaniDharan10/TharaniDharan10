@@ -145,3 +145,10 @@ Associate, J P Morgan
 📧 LalitKumar.RM@outlook.com  
 
 ---
+
+## GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats-sigm-five.vercel.app/api?username=TharaniDharan10&show_icons=true&bg_color=00000000&title_color=E50914&text_color=FFFFFF&icon_color=E50914&v=1" height="150">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TharaniDharan10&layout=compact&bg_color000000&title_color=FFFFFFF&v=1" height="150">
+</p>
