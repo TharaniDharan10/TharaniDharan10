@@ -149,6 +149,21 @@ Associate, J P Morgan
 ## GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats-sigm-five.vercel.app/api?username=TharaniDharan10&show_icons=true&bg_color=00000000&title_color=E50914&text_color=FFFFFF&icon_color=E50914&v=1" height="150">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TharaniDharan10&layout=compact&bg_color000000&title_color=FFFFFFF&v=1" height="150">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TharaniDharan10&show_icons=true&bg_color=000000&title_color=E50914&text_color=FFFFFF&icon_color=E50914&v=1" height="160">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TharaniDharan10&layout=compact&bg_color=000000&title_color=E50914&text_color=FFFFFF&v=1" height="160">
+</p>
+
+
+## Development Streak
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TharaniDharan10&theme=dark&background=000000&stroke=E50914&ring=E50914&fire=E50914&currStreakLabel=E50914">
+</p>
+
+---
+
+## Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TharaniDharan10&color=E50914&style=for-the-badge">
 </p>
