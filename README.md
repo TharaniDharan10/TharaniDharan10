@@ -32,6 +32,7 @@ I am excited to connect with like-minded professionals and explore opportunities
 - 🔮 **ReactJS**
 - 🇧🇼 **TailwindCSS**
 - 🥬 **Spring Boot**
+- 💻 **Django**
 
 **Databases**  
 - 🗄 **MySQL**  
