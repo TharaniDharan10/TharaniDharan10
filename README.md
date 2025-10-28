@@ -93,6 +93,12 @@ Integrated Apache Kafka to ensure reliable message delivery and asynchronous pro
 
 ---
 
+### 🏅 **Certifications** 
+- Oracle – [Cloud Infrastructure 2025 Certified Developer Professional](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7481308&trackId=OCID25CP&key=ff59eff54daffe360c0186bd381876a77a254f69) | October’ 25  
+- Oracle – [Cloud Infrastructure 2025 Certified Architect Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7481308&trackId=OCI25CAA&key=3a31d00698bff399606916ce21aa83a81b55afb6) | October’ 25  
+
+---
+
 ### 🏅 **Certificates** 
 - AWS - [Solutions Architecture](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_YnBgYoNpEf5iKbis9_1753196575165_completion_certificate.pdf) | July' 25
 - NPTEL – Cloud Computing | October’ 24
