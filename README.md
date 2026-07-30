@@ -1,12 +1,13 @@
 <!-- <img src="https://github.com/TharaniDharan10/TharaniDharan10/blob/main/SDE.png" width="100%" height="10%" alt="ALTERNATIVE_TEXT" /> -->
 
 <div align="center">
-
+  
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Data+Engineer;Aspiring+Full+Stack+Developer;Aspiring+DevOps+Engineer;Building+Scalable+Data+Systems" alt="Typing SVG" />
 
   <br/>
 
   [![Email](https://img.shields.io/badge/-Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharunjisnu109@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=white)](https://tharaniportfolio.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharanidharan-s/)
 
 </div>
