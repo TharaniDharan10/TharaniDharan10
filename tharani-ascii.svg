@@ -1,0 +1,71 @@
+<svg viewBox="0 0 630 608" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tharani Dharan Saravanan ASCII portrait">
+
+  <style>
+    .bg { fill: #0D1117; }
+    .ascii {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 12px;
+      fill: #22D3EE;
+      white-space: pre;
+    }
+    .row {
+      opacity: 0;
+      animation: typeIn 0.4s ease-out forwards;
+    }
+    @keyframes typeIn {
+      from { opacity: 0; transform: translateX(-4px); }
+      to   { opacity: 1; transform: translateX(0); }
+    }
+  </style>
+
+<rect class="bg" x="0" y="0" width="630" height="608" rx="14"/>
+<text class="ascii row" x="6" y="12.4" style="animation-delay:0.000s">.                              ............................                              .</text>
+<text class="ascii row" x="6" y="24.8" style="animation-delay:0.018s">.       .                 .........::::::::::::::::::::::......        .      ..          </text>
+<text class="ascii row" x="6" y="37.2" style="animation-delay:0.036s">..          .. .   .   ......:::::::::::::----::::::::::::::::.....    .    ...           </text>
+<text class="ascii row" x="6" y="49.6" style="animation-delay:0.054s">.                   .....::::::::..:-=+**#%%%%##*+=-:::::::----:::....                    </text>
+<text class="ascii row" x="6" y="62.0" style="animation-delay:0.072s">..               .....:::::::::.:-=*#%@%@@@@@@@@@%%#*+=--:::::-----::....                 </text>
+<text class="ascii row" x="6" y="74.4" style="animation-delay:0.090s">..   .....  .......::::::::::::=#%@@@@@@@@@@@@@@@@@@%%%#**+=-::-------::...  ...   ....   </text>
+<text class="ascii row" x="6" y="86.8" style="animation-delay:0.108s">..   ...   . ....::::::::::::=#@@@@@@@@@@@@@@@@@@@@@@@%%#%%##*=::-------::....    ...     </text>
+<text class="ascii row" x="6" y="99.2" style="animation-delay:0.126s">.          ....::::::::::::-*@@@@@@@@@@@@@@@@@@@@@@@%%%%%######+-:--------::... .         </text>
+<text class="ascii row" x="6" y="111.6" style="animation-delay:0.144s">..     .. ...:::::::::::::=%@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%######*----------::...    ...   </text>
+<text class="ascii row" x="6" y="124.0" style="animation-delay:0.162s">..   .......::::::::::::::#%@@@@@@@@@@@@%%%%%%%%%%%%@@@%%%####%##=:--------::.........    </text>
+<text class="ascii row" x="6" y="136.4" style="animation-delay:0.180s">.      ...::::::::::::::::%@@@@@@@@%%###************###%#%%%%%@@*----------::......      .</text>
+<text class="ascii row" x="6" y="148.8" style="animation-delay:0.198s">..    ...:::::::::::::::.=@@@@@@@%%##**++++++++++++++++++++*#%@@*-----:----::.......  .   </text>
+<text class="ascii row" x="6" y="161.2" style="animation-delay:0.216s">. .  ...:::::::::::::::::#@@@@@%##*****+++++++++++++===---:-=#%@%=:--------::..........   </text>
+<text class="ascii row" x="6" y="173.6" style="animation-delay:0.234s">..  ..:::::::::::::::::::#@@@%********+++++++++++++===-----:-+*%@*:--------::.........    </text>
+<text class="ascii row" x="6" y="186.0" style="animation-delay:0.252s">.  ..:::::::.....:....::.+@@%+++*##***++++++++++++====-----::-=#%*:--------:...........   </text>
+<text class="ascii row" x="6" y="198.4" style="animation-delay:0.270s">. ..:-:::::.:::........:.-%@*+*%@@@@@@%##**++++++++********=-:-*#+:--------:............  </text>
+<text class="ascii row" x="6" y="210.8" style="animation-delay:0.288s">....---:::..::............#%+*%#####%%%@@%##**++*#%@@%%%#****=:+#=:--------:............  </text>
+<text class="ascii row" x="6" y="223.2" style="animation-delay:0.306s"> ..:=--:::................++=++++*++++*****##*****+++++==-----:-#=:--------:............. </text>
+<text class="ascii row" x="6" y="235.6" style="animation-delay:0.324s"> ..===-::................:--+**##%##%%%##*+++=====+####*+++=---::-::::-----:............. </text>
+<text class="ascii row" x="6" y="248.0" style="animation-delay:0.342s">..-===-::...............:##==+***#**#%####+++*+-=+#%###*+*+==--:-+--::-----:.......... ...</text>
+<text class="ascii row" x="6" y="260.4" style="animation-delay:0.360s">..-===-::...............-#*+=+++++***#*#**=+*+==-=+****++==---::=-=-:------:.......... ...</text>
+<text class="ascii row" x="6" y="272.8" style="animation-delay:0.378s">.:====-::...............-##*-=++=++******++*++=---==+++====--::-=-==::-----:..............</text>
+<text class="ascii row" x="6" y="285.2" style="animation-delay:0.396s">.:====-::...............:*##+=++++++++++++**++=----=====---::::-**=-::-----:..............</text>
+<text class="ascii row" x="6" y="297.6" style="animation-delay:0.414s">.:====-::................+#%**++==++++++++*+++=-:--=+==--::::::=##=:::-----:..............</text>
+<text class="ascii row" x="6" y="310.0" style="animation-delay:0.432s">.:====-::................-*%****+++++++***##*+==+=-=+++==-----:=+=-:::-----:.......::.....</text>
+<text class="ascii row" x="6" y="322.4" style="animation-delay:0.450s">.:====-::.................=%#************##%%*+**+===+*++==----+=--::::---::.......::::...</text>
+<text class="ascii row" x="6" y="334.8" style="animation-delay:0.468s">.:-----::..................=#*******#####%@@@%%@%%#*+*##+=====-+-::::::---::.......:::::..</text>
+<text class="ascii row" x="6" y="347.2" style="animation-delay:0.486s">..----:::..................:####**#%@@@@%%%%####*****%@@#+====+=:::::::---::.......::::...</text>
+<text class="ascii row" x="6" y="359.6" style="animation-delay:0.504s">..:::::::...................+%###**%@@%%###****++===+*###+====+-:::::::---::.......:::::..</text>
+<text class="ascii row" x="6" y="372.0" style="animation-delay:0.522s">..:::::::...................:*%%#**###*****+++===---===++===++-::--::::---::..........:...</text>
+<text class="ascii row" x="6" y="384.4" style="animation-delay:0.540s"> ..::::::....................:*%%####***###%%%##**+==-=====++-:::--::::---::............. </text>
+<text class="ascii row" x="6" y="396.8" style="animation-delay:0.558s"> ..:-::::.....................:#@%%%%##*####%%##+========*#+:::::--::::---::............. </text>
+<text class="ascii row" x="6" y="409.2" style="animation-delay:0.576s">. ..-=-::.....................:*%@@@@%####**#*++======**#*=::::::---:::---::............  </text>
+<text class="ascii row" x="6" y="421.6" style="animation-delay:0.594s">. ..:+=-:....................==*##%@@@%%%%%####******###+=-:::::----:::---::............  </text>
+<text class="ascii row" x="6" y="434.0" style="animation-delay:0.612s">.. ..-=-:..................:*%-*###%%@@@@@@@%@@%%%%%%#+===-.=-:::--::::---::...........   </text>
+<text class="ascii row" x="6" y="446.4" style="animation-delay:0.630s">..  ..:-::.:::::::::::...:=#@*:=####%%%@@@@@@@@@@%#*+=====-.=*-::::::::---::..........    </text>
+<text class="ascii row" x="6" y="458.8" style="animation-delay:0.648s">..   ..:::::::::::...::-+#%%@+::-*#######%%%%##*++========: -#++-::::::---::...........   </text>
+<text class="ascii row" x="6" y="471.2" style="animation-delay:0.666s">.     ...:::::...::=+*#%@%%%@*:::-+##########*++======++-.. -%*+*++=-::::-::........      </text>
+<text class="ascii row" x="6" y="483.6" style="animation-delay:0.684s">..  .  ....:.::=+#%%%@%%%%%@@#:::::-+########**++==+*+=:....+#*****#%*+=-:::.......       </text>
+<text class="ascii row" x="6" y="496.0" style="animation-delay:0.702s">.       ...:+#%%%%%@@%@@@@@@@@=:::::::=*##****++++*+-......:##******#%%##*=-:.....   ..   </text>
+<text class="ascii row" x="6" y="508.4" style="animation-delay:0.720s">..    ... ..-*%@@@@@%@@@@@@@@@*-::::::::-+*******+-........+%##****###%%%%##=...   ...    </text>
+<text class="ascii row" x="6" y="520.8" style="animation-delay:0.738s">..   .     ...-#@@@%%%%@@@@@@@#-::::::::..:++**=:.........:#%%##***##*#%%%*-...   ...     </text>
+<text class="ascii row" x="6" y="533.2" style="animation-delay:0.756s">..           ...-#@@@@@@@@@@@@%=::::::..-+**++**-:........-%%#########%%*-...             </text>
+<text class="ascii row" x="6" y="545.6" style="animation-delay:0.774s">.      ...    ....-*%@@@@@@@@@@*-:::::=#@@@%%%%%#*+:.....:+%%####%#%%#+-...  ....   ....  </text>
+<text class="ascii row" x="6" y="558.0" style="animation-delay:0.792s">..   ....   ...  ...:=*%@@@@@@@#=::::=*%@@@@%%#####+-:...-#%###%%%#*-:...   ...    ...    </text>
+<text class="ascii row" x="6" y="570.4" style="animation-delay:0.810s">..                   ..:-+#@@@@#=-::-==+#@@@%###*=--==:.:+#%%##*+-:...                    </text>
+<text class="ascii row" x="6" y="582.8" style="animation-delay:0.828s">..     ..             .  ..:=+##---::--==*@@@##*:::::::-==#*+-:....                       </text>
+<text class="ascii row" x="6" y="595.2" style="animation-delay:0.846s">.            ..    ....      ..:.::::::-==%@%##=..::::.::::..   ...    ...  .....         </text>
+<text class="ascii row" x="6" y="607.6" style="animation-delay:0.864s">.   ..             .   . .      .........::--:::..........     ..           .             </text>
+</svg>

@@ -1,14 +1,46 @@
-<!-- <img src="https://github.com/TharaniDharan10/TharaniDharan10/blob/main/SDE.png" width="100%" height="10%" alt="ALTERNATIVE_TEXT" /> -->
-
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Data+Engineer;Aspiring+Full+Stack+Developer;Aspiring+DevOps+Engineer;Building+Scalable+Data+Systems" alt="Typing SVG" />
 
-  <br/>
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3D ASCII
+     wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     portrait: python scripts/make_ascii_svg.py   (edit assets/photo.jpg first)
+     wordmark: python scripts/make_wordmark_svg.py
+     how the wordmark is built: docs/3d-ascii-wordmark.md -->
 
-  [![Email](https://img.shields.io/badge/-Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharunjisnu109@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=white)](https://tharaniportfolio.netlify.app/)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharanidharan-s/)
+<h3><code>tharani@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./tharani-ascii.svg" width="370" alt="Tharani Dharan Saravanan — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="420" alt="TD — 3D ASCII wordmark" /></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Data+Engineer;Aspiring+Full+Stack+Developer;Aspiring+DevOps+Engineer;Building+Scalable+Data+Systems" alt="Typing SVG" />
+
+<br/>
+<br/>
+
+<!-- animated contribution graph: real data, cells reveal one by one
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>tharani@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Tharani's GitHub contribution graph — auto-refreshed daily" />
+
+<br/>
+<br/>
+
+<h3><code>tharani@github ~ $ ./links.sh</code></h3>
+
+<p><b>Data Engineer · Aspiring Full Stack Developer · Aspiring DevOps Engineer</b></p>
+
+[![Email](https://img.shields.io/badge/-Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharunjisnu109@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=white)](https://tharaniportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharanidharan-s/)
+
+<br/>
 
 </div>
 
@@ -188,7 +220,6 @@ DevOps Engineer"]
 - Pipeline flow: build → containerize → provision infra → deploy → expose via Load Balancer, with support for rolling updates and scaling via `kubectl`.
 - 🔗 [View Repo](https://github.com/TharaniDharan10/Docker_Demo)
 
-
 ### 📚 Spring Boot Library Management System
 `Spring Boot` `MySQL` `Redis` `Maven`
 - Engineered a monolithic LMS supporting registration, book borrowing, returns, and fine collection.
@@ -252,17 +283,6 @@ Regular player of **Basketball** and **Badminton**, balancing academics with fit
   <img src="https://streak-stats.demolab.com/?user=TharaniDharan10&theme=dark&background=0D1117&stroke=6C63FF&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&border=6C63FF">
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharaniDharan10&bg_color=0D1117&color=22D3EE&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%">
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TharaniDharan10&theme=algolia&no-frame=true&row=1&margin-w=12&column=6">
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TharaniDharan10.TharaniDharan10&left_color=0D1117&right_color=6C63FF&left_text=Profile%20Views">
-</p> -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TharaniDharan10.TharaniDharan10&left_color=0D1117&right_color=22D3EE&left_text=Profile%20Views">
 </p>
