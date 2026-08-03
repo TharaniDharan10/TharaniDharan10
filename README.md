@@ -264,6 +264,18 @@ DevOps Engineer"]
 
 ---
 
+## 🏅 References
+
+**Kamalakannan Rajagopal Manigandan**
+Assistant Vice President, Citi
+📍 Chennai, Tamil Nadu, India · 📧 Kamalakannan.R.M@outlook.com
+
+**Lalit Kumar R M**
+Associate, J P Morgan
+📍 Mumbai, Maharashtra, India · 📧 LalitKumar.RM@outlook.com
+
+---
+
 ## 💡 Beyond Code
 
 **⚔ National Cadet Corps (NCC)** — *during school*
