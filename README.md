@@ -266,26 +266,19 @@ DevOps Engineer"]
 
 ## 🏅 References
 
-**Kamalakannan Rajagopal Manigandan**
-Assistant Vice President, Citi
-📍 Chennai, Tamil Nadu, India · 📧 Kamalakannan.R.M@outlook.com
-
-**Lalit Kumar R M**
-Associate, J P Morgan
-📍 Mumbai, Maharashtra, India · 📧 LalitKumar.RM@outlook.com
+| Name | Role | Location | Email |
+|---|---|---|---|
+| **Kamalakannan Rajagopal Manigandan** | Assistant Vice President, Citi | Chennai, Tamil Nadu, India | Kamalakannan.R.M@outlook.com |
+| **Lalit Kumar R M** | Associate, J P Morgan | Mumbai, Maharashtra, India | LalitKumar.RM@outlook.com |
 
 ---
 
 ## 💡 Beyond Code
 
-**⚔ National Cadet Corps (NCC)** — *during school*
-Earned **'A', 'B', and CATC** certificates and took part in multiple leadership camps — building discipline, teamwork, and resilience.
-
-**🏀 Sports**
-Regular player of **Basketball** and **Badminton**, balancing academics with fitness and team spirit.
-
-**🌍 Languages**
-🇮🇳 Tamil (Native) · 🇬🇧 English (Fluent) · 🇮🇳 Hindi (Fluent)
+| | | |
+|---|---|---|
+| **⚔ NCC** | **🏀 Sports** | **🌍 Languages** |
+| Earned 'A', 'B' and CATC certificates; leadership camps building discipline and teamwork | Regular Basketball & Badminton player, balancing fitness with academics | 🇮🇳 Tamil (Native) · 🇬🇧 English (Fluent) · 🇮🇳 Hindi (Fluent) |
 
 ---
 
