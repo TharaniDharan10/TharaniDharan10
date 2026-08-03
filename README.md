@@ -26,12 +26,13 @@
 <br/>
 <br/>
 
-<!-- real, live contribution graph — pulled directly from github.com/TharaniDharan10
-     by ghchart.rshah.org on every page load, no workflow or regeneration needed -->
+<!-- real contribution graph, regenerated daily by .github/workflows/update-heatmap.yml
+     using scripts/generate_contribution_svg.py — dark grey for no activity,
+     a blue gradient for activity, no third-party neon styling -->
 
 <h3><code>tharani@github ~ $ ./contributions.sh</code></h3>
 
-<img src="https://ghchart.rshah.org/40c463/TharaniDharan10" width="860" alt="Tharani's live GitHub contribution graph" />
+<img src="./contrib-heatmap.svg" width="860" alt="Tharani's live GitHub contribution graph" />
 
 <br/>
 <br/>
