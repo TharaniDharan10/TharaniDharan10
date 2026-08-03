@@ -30,7 +30,7 @@
      using scripts/generate_contribution_svg.py — dark grey for no activity,
      a blue gradient for activity, no third-party neon styling -->
 
-<h3><code>tharani@github ~ $ ./snake.sh</code></h3>
+<h3><code>tharani@github ~ $ ./contributions.sh</code></h3>
 
 <img src="https://raw.githubusercontent.com/TharaniDharan10/TharaniDharan10/output/github-snake.svg" width="860" alt="Snake eating Tharani's GitHub contribution graph" />
 <br/>
