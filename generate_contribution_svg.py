@@ -105,6 +105,42 @@ def build_svg(days, username):
         lx += STEP
     svg.append(f'<text x="{lx + 4}" y="{ly + 8}" font-size="10" fill="{TEXT}">More</text>')
 
+    # ---- snake path: visits only empty (level 0) cells, boustrophedon order ----
+    snake_cells = []
+    for wi, week in enumerate(weeks):
+        row_order = range(7) if wi % 2 == 0 else range(6, -1, -1)
+        for di in row_order:
+            date, level = week[di]
+            if level == 0:
+                x = LEFT_PAD + wi * STEP
+                y = TOP_PAD + di * STEP
+                snake_cells.append((x, y))
+
+    if snake_cells:
+        n = len(snake_cells)
+        step_dur = 0.16  # seconds per hop
+        total_dur = round(n * step_dur, 2)
+        xs = ";".join(str(x) for x, y in snake_cells) + f";{snake_cells[0][0]}"
+        ys = ";".join(str(y) for x, y in snake_cells) + f";{snake_cells[0][1]}"
+        key_times = ";".join(f"{i/n:.5f}" for i in range(n)) + ";1"
+
+        snake_color = "#f472b6"  # pink, distinct from the blue activity palette
+        trail_colors = ["#f472b6", "#e879a9", "#d16a97", "#b95c85"]
+        trail_delays = [0, step_dur, step_dur * 2, step_dur * 3]
+
+        svg.append('<g id="snake">')
+        for color, delay in zip(trail_colors, trail_delays):
+            opacity = 1.0 if delay == 0 else max(0.15, 0.6 - delay * 0.5)
+            svg.append(
+                f'<rect width="{CELL}" height="{CELL}" rx="2.5" fill="{color}" opacity="{opacity:.2f}">'
+                f'<animate attributeName="x" values="{xs}" keyTimes="{key_times}" '
+                f'dur="{total_dur}s" begin="-{delay}s" repeatCount="indefinite" calcMode="discrete"/>'
+                f'<animate attributeName="y" values="{ys}" keyTimes="{key_times}" '
+                f'dur="{total_dur}s" begin="-{delay}s" repeatCount="indefinite" calcMode="discrete"/>'
+                f"</rect>"
+            )
+        svg.append("</g>")
+
     svg.append("</svg>")
     return "\n".join(svg)
 
