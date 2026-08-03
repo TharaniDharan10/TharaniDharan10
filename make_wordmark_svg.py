@@ -16,8 +16,8 @@ CHAR_H = FONT_SIZE * 1.02     # line height
 DEPTH_LAYERS = 16             # how many offset copies build the extrusion
 DEPTH_STEP = 1.6              # px offset per layer (diagonal, down-right)
 
-FRONT_COLOR = "#22D3EE"
-BACK_COLOR = "#4c2a86"        # deep shade the extrusion fades into
+FRONT_COLOR = "#ec4899"       # hot pink — matches the portrait's highlight tone
+BACK_COLOR = "#581c87"        # deep violet — matches the portrait's shadow tone
 BG = "#0D1117"
 
 FONT_STACK = "'Cascadia Code','Fira Code','Consolas','DejaVu Sans Mono',monospace"

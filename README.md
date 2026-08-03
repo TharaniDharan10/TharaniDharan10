@@ -4,7 +4,9 @@
      wordmark (wipes in left-to-right, then rocks on its vertical axis).
      portrait: python scripts/make_ascii_svg.py   (edit assets/photo.jpg first)
      wordmark: python scripts/make_wordmark_svg.py
-     how the wordmark is built: docs/3d-ascii-wordmark.md -->
+     how the wordmark is built: docs/3d-ascii-wordmark.md
+     live terminal (whoami, projects, etc. as real commands): terminal/index.html
+     one-time setup to make the badge below live: docs/live-terminal.md -->
 
 <h3><code>tharani@github ~ $ whoami</code></h3>
 
@@ -39,6 +41,7 @@
 [![Email](https://img.shields.io/badge/-Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharunjisnu109@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=white)](https://tharaniportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharanidharan-s/)
+[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-TharaniDharan10.github.io-ec4899?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://TharaniDharan10.github.io)
 
 <br/>
 
@@ -284,7 +287,7 @@ Regular player of **Basketball** and **Badminton**, balancing academics with fit
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TharaniDharan10.TharaniDharan10&left_color=0D1117&right_color=22D3EE&left_text=Profile%20Views">
+  <img src="https://komarev.com/ghpvc/?username=TharaniDharan10&label=Profile%20Views&color=ec4899&style=flat">
 </p>
 
 ---

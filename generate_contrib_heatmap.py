@@ -20,7 +20,7 @@ CELL = 11
 GAP = 3
 BG = "#0D1117"
 EMPTY = "#161b22"
-SCALE = ["#0e2a36", "#123c4d", "#146b8c", "#1aa3c9", "#22D3EE"]  # low -> high, theme cyan ramp
+SCALE = ["#0e4429", "#006d32", "#26a641", "#39d353"]  # low -> high, GitHub's default green ramp
 
 QUERY = """
 query($login: String!) {
