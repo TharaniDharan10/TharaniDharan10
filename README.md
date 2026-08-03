@@ -5,8 +5,10 @@
      portrait: python scripts/make_ascii_svg.py   (edit assets/photo.jpg first)
      wordmark: python scripts/make_wordmark_svg.py
      how the wordmark is built: docs/3d-ascii-wordmark.md
-     live terminal (whoami, projects, etc. as real commands): terminal/index.html
-     one-time setup to make the badge below live: docs/live-terminal.md -->
+     NOTE: if these SVGs render with washed-out contrast, open the script and
+     swap the stroke/fill color to #2DD4E8 (cyan) or #B3A1FB (light violet) —
+     the original #6C63FF is too dark against the #0D1117 background to read
+     cleanly at small sizes. -->
 
 <h3><code>tharani@github ~ $ whoami</code></h3>
 
@@ -19,17 +21,17 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Data+Engineer;Aspiring+Full+Stack+Developer;Aspiring+DevOps+Engineer;Building+Scalable+Data+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=2DD4E8&center=true&vCenter=true&width=700&lines=Data+Engineer;Aspiring+Full+Stack+Developer;Aspiring+DevOps+Engineer;Building+Scalable+Data+Systems" alt="Typing SVG" />
 
 <br/>
 <br/>
 
-<!-- animated contribution graph: real data, cells reveal one by one
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+<!-- real, live contribution graph — pulled directly from github.com/TharaniDharan10
+     by ghchart.rshah.org on every page load, no workflow or regeneration needed -->
 
 <h3><code>tharani@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Tharani's GitHub contribution graph — auto-refreshed daily" />
+<img src="https://ghchart.rshah.org/2DD4E8/TharaniDharan10" width="860" alt="Tharani's live GitHub contribution graph" />
 
 <br/>
 <br/>
@@ -38,10 +40,10 @@
 
 <p><b>Data Engineer · Aspiring Full Stack Developer · Aspiring DevOps Engineer</b></p>
 
-[![Email](https://img.shields.io/badge/-Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharunjisnu109@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharunjisnu109@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=white)](https://tharaniportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharanidharan-s/)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-TharaniDharan10.github.io-ec4899?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://TharaniDharan10.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharanidharan-s/)
+[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-TharaniDharan10.github.io-EC4899?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://TharaniDharan10.github.io)
 
 <br/>
 
@@ -97,14 +99,14 @@ Building Scalable Data Systems"]
 Full Stack Developer &
 DevOps Engineer"]
 
-    style A fill:#0D1117,stroke:#22D3EE,color:#C9D1D9
-    style N fill:#0D1117,stroke:#6C63FF,color:#C9D1D9
-    style B fill:#0D1117,stroke:#22D3EE,color:#C9D1D9
-    style D fill:#0D1117,stroke:#6C63FF,color:#C9D1D9
-    style E fill:#0D1117,stroke:#6C63FF,color:#C9D1D9
-    style F fill:#0D1117,stroke:#22D3EE,color:#C9D1D9
-    style G fill:#0D1117,stroke:#22D3EE,color:#C9D1D9
-    style H fill:#0D1117,stroke:#6C63FF,color:#C9D1D9
+    style A fill:#0D1117,stroke:#2DD4E8,color:#E5EDF5
+    style N fill:#0D1117,stroke:#B3A1FB,color:#E5EDF5
+    style B fill:#0D1117,stroke:#2DD4E8,color:#E5EDF5
+    style D fill:#0D1117,stroke:#B3A1FB,color:#E5EDF5
+    style E fill:#0D1117,stroke:#B3A1FB,color:#E5EDF5
+    style F fill:#0D1117,stroke:#2DD4E8,color:#E5EDF5
+    style G fill:#0D1117,stroke:#2DD4E8,color:#E5EDF5
+    style H fill:#0D1117,stroke:#B3A1FB,color:#E5EDF5
 ```
 
 ---
@@ -117,11 +119,11 @@ DevOps Engineer"]
   <img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark" />
 </p>
 
-![Java](https://img.shields.io/badge/Java-6C63FF?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-6C63FF?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-6C63FF?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6C63FF?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-A78BFA?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-A78BFA?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-A78BFA?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-A78BFA?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-A78BFA?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -129,10 +131,10 @@ DevOps Engineer"]
   <img src="https://skillicons.dev/icons?i=react,tailwind,spring,django&theme=dark" />
 </p>
 
-![React](https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-22D3EE?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-22D3EE?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-22D3EE?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-2DD4E8?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2DD4E8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2DD4E8?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-2DD4E8?style=for-the-badge&logo=django&logoColor=white)
 
 **Databases**
 
@@ -140,18 +142,18 @@ DevOps Engineer"]
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" />
 </p>
 
-![MySQL](https://img.shields.io/badge/MySQL-6C63FF?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-6C63FF?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-6C63FF?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-A78BFA?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-A78BFA?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-A78BFA?style=for-the-badge&logo=redis&logoColor=white)
 
 **Data Engineering & Cloud Warehousing**
 
-![Snowflake](https://img.shields.io/badge/Snowflake-22D3EE?style=for-the-badge&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/Google%20BigQuery-22D3EE?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-22D3EE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-22D3EE?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-22D3EE?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-22D3EE?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-2DD4E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google%20BigQuery-2DD4E8?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-2DD4E8?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-2DD4E8?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-2DD4E8?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-2DD4E8?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **DevOps & Cloud Infrastructure**
 
@@ -159,20 +161,20 @@ DevOps Engineer"]
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,git,github&theme=dark" />
 </p>
 
-![Docker](https://img.shields.io/badge/Docker-6C63FF?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-6C63FF?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-6C63FF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-6C63FF?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-6C63FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6C63FF?style=for-the-badge&logo=git&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-6C63FF?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-6C63FF?style=for-the-badge&logo=grafana&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-6C63FF?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-A78BFA?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-A78BFA?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-A78BFA?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-A78BFA?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-A78BFA?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-A78BFA?style=for-the-badge&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-A78BFA?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-A78BFA?style=for-the-badge&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-A78BFA?style=for-the-badge&logo=nginx&logoColor=white)
 
 **AI / LLM Tooling**
 
-![LangChain](https://img.shields.io/badge/LangChain-22D3EE?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-22D3EE?style=for-the-badge&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2DD4E8?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-2DD4E8?style=for-the-badge&logo=ollama&logoColor=white)
 
 **Other Tools**
 
@@ -180,10 +182,10 @@ DevOps Engineer"]
   <img src="https://skillicons.dev/icons?i=figma,postman,vscode,idea&theme=dark" />
 </p>
 
-![Figma](https://img.shields.io/badge/Figma-6C63FF?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-6C63FF?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-6C63FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-6C63FF?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A78BFA?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-A78BFA?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-A78BFA?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-A78BFA?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
@@ -278,12 +280,12 @@ Regular player of **Basketball** and **Badminton**, balancing academics with fit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=TharaniDharan10&show_icons=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=6C63FF&border_color=6C63FF&v=2" height="165">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TharaniDharan10&layout=compact&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=6C63FF&v=2" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=TharaniDharan10&show_icons=true&bg_color=0D1117&title_color=2DD4E8&text_color=CDD8E3&icon_color=B3A1FB&border_color=B3A1FB&v=2" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TharaniDharan10&layout=compact&bg_color=0D1117&title_color=2DD4E8&text_color=CDD8E3&border_color=B3A1FB&v=2" height="165">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TharaniDharan10&theme=dark&background=0D1117&stroke=6C63FF&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&border=6C63FF">
+  <img src="https://streak-stats.demolab.com/?user=TharaniDharan10&theme=dark&background=0D1117&stroke=B3A1FB&ring=2DD4E8&fire=2DD4E8&currStreakLabel=2DD4E8&border=B3A1FB">
 </p>
 
 <p align="center">
@@ -299,13 +301,13 @@ Regular player of **Basketball** and **Badminton**, balancing academics with fit
 Whether it's data pipelines, full-stack apps, or cloud infrastructure — I'm always up for an interesting conversation or collaboration.
 
 <a href="https://www.linkedin.com/in/tharanidharan-s/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:dharunjisnu109@gmail.com">
-  <img src="https://img.shields.io/badge/Say%20Hello-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Say%20Hello-2DD4E8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/TharaniDharan10">
-  <img src="https://img.shields.io/badge/Explore%20my%20Repos-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore%20my%20Repos-A78BFA?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
