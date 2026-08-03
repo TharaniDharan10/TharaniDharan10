@@ -31,7 +31,7 @@
 
 <h3><code>tharani@github ~ $ ./contributions.sh</code></h3>
 
-<img src="https://ghchart.rshah.org/2DD4E8/TharaniDharan10" width="860" alt="Tharani's live GitHub contribution graph" />
+<img src="https://ghchart.rshah.org/40c463/TharaniDharan10" width="860" alt="Tharani's live GitHub contribution graph" />
 
 <br/>
 <br/>
@@ -43,7 +43,6 @@
 [![Email](https://img.shields.io/badge/-Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharunjisnu109@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=white)](https://tharaniportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharanidharan-s/)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-TharaniDharan10.github.io-EC4899?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://TharaniDharan10.github.io)
 
 <br/>
 
